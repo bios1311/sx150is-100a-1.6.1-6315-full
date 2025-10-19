@@ -12,6 +12,10 @@ Index:
 	06 - uBASIC copyright notice
 
 
+*** Update History ***
+2025-10-20: Added CHDK\SCRIPTS\loop_video.lua for dashcam automation.
+
+
 ************************************
 
 
